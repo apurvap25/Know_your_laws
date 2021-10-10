@@ -410,6 +410,13 @@
         "law_name":"The motor vehicles act",
         "description":"provides legislative provisions regarding licensing of drivers,registration of motor vehicles,traffic regulation,insurance,penalties."
     }
+   {
+        "id": 57,
+        "article_no.": "45",
+        "introduced-year": "1949",
+        "law_name": "Provision for free and compulsory education for children.",
+        "description": "free and compulsory education for all children until they complete age of 14 years and childhood care and education until they complete age of six years"
+    },
         
     {
         "id": 37,
